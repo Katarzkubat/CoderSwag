@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoderSwag</string>
+    <string name="categories">Categories</string>
+    <string name="demo">Demo</string>
+    <string name="products">Products</string>
+    <string name="demo_prod_name">Item</string>
+    <string name="demo_price">$22</string>
+    <string name="add_button">ADD TO CARD</string>
+    <string name="demo_description">Description: The first thing I would do, is make the Product class Parcelable. We covered this in the previous section. Pretty easy to do, all you need to do is extend the Parcelable interface, the do alt+enter and select ‘add Parcelable implementation’. The class needs to be parcel able so that we can pass the product object from the ProductsActivity to the new ProductDetailActivity</string>
+
+</resources>
